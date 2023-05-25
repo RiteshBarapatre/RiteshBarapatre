@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiteshBarapatre
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning Socket io and Web RTC
+- 💞️ I’m looking to collaborate for any MERN project
 - 📫 How to reach me riteshbarapatre543@gmail.com
 
 <!---
